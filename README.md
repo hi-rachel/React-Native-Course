@@ -1,6 +1,9 @@
-## React Native Course - Aora
+## 🤳 React Native Course - Aora
 
-React Native full-stack mobile app.
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/95a26a03-b810-4efc-af73-29522eee3fab" width="50%">
+    <p>React Native full-stack mobile app.</p>
+</div>
 
 ## ⚙️ Tech Stack
 

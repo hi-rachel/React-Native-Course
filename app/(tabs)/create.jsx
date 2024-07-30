@@ -112,6 +112,7 @@ const Create = () => {
                   <Image
                     source={icons.upload}
                     resizeMode="contain"
+                    alt="upload"
                     className="w-1/2 h-1/2"
                   />
                 </View>
@@ -136,6 +137,7 @@ const Create = () => {
                 <Image
                   source={icons.upload}
                   resizeMode="contain"
+                  alt="upload"
                   className="w-5 h-5"
                 />
                 <Text className="text-sm text-gray-100 font-pmedium">
